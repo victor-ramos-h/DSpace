@@ -1,0 +1,1 @@
+docker-compose -p d6 stop
